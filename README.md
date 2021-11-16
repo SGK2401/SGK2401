@@ -1,6 +1,6 @@
-Just a random one you see all day.
+Just a random person.
 - Student
-- Currently learning minecraft mod dev. version 1.16
+- Lazy
 - nah.
 
 <!---
