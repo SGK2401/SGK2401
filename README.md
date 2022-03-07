@@ -1,7 +1,4 @@
-Just a random person.
-- Student
-- Lazy
-- nah.
+<混沌中立>
 
 <!---
 SGK2401/SGK2401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
